@@ -5,7 +5,7 @@ likely to churn, using a machine learning model trained on the Telco Customer
 Churn dataset.
 
 ## 🔗 Live Demo
-
+👉 https://customer-churn-prediction-samriti.streamlit.app/
 
 ## ✨ Features
 - **Customer selector** — pick any customer by ID and view their full profile
